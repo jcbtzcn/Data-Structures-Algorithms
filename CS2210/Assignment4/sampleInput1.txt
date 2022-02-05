@@ -1,0 +1,4 @@
+10 10 user p.jpg
+100 200 computer g.jpg
+300 300 target b.jpg
+200 100 fixed vs2.jpg
